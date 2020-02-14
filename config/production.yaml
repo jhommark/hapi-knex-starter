@@ -1,7 +1,7 @@
 db:
-  host:
+  host: localhost
   name: todo_app
-  user:
+  user: root
   password:
 api:
   port: 3000

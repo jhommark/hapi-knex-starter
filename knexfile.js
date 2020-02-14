@@ -3,7 +3,7 @@
 const Config = require('config');
 
 const dbConfiguration = {
-  client: 'postgresql',
+  client: 'mysql',
   connection: {
     host:     Config.get('db.host'),
     database: Config.get('db.name'),

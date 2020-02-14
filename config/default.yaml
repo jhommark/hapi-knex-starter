@@ -1,8 +1,8 @@
 db:
   host: localhost
-  name: todo_app_dev
-  user: postgresdev
-  password: postgresdev
+  name: todo_app
+  user: root
+  password:
 api:
   host: localhost
   port: 7000
